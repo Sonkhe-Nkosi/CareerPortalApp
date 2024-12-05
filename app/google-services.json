@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417120059503",
+    "project_id": "my-career-portal-app",
+    "storage_bucket": "my-career-portal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417120059503:android:0497129d6da226f2b8cd9a",
+        "android_client_info": {
+          "package_name": "com.example.mycareerportalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeXILAOUzrj9PEv79ZonFGCs8n6QMONs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

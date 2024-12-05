@@ -1,0 +1,122 @@
+{
+  "posts": {
+    "post1": {
+      "title": "Software Engineering Internship",
+      "companyName": "Tech Innovations Inc.",
+      "description": "An exciting opportunity to gain experience in software development.",
+      "requirements": "Proficiency in Java and Kotlin.",
+      "location": "New York, NY",
+      "category": "Internship",
+      "imageUrl": ""
+    },
+    "post2": {
+      "title": "Data Science Scholarship",
+      "companyName": "Data Analysts Co.",
+      "description": "Scholarship for aspiring data scientists.",
+      "requirements": "Strong analytical skills and knowledge of Python.",
+      "location": "San Francisco, CA",
+      "category": "Scholarship",
+      "imageUrl": ""
+    },
+    "post3": {
+      "title": "Graphic Designer Learnership",
+      "companyName": "Creative Minds Ltd.",
+      "description": "Learnership program for graphic designers.",
+      "requirements": "Knowledge of Adobe Creative Suite.",
+      "location": "Los Angeles, CA",
+      "category": "Learnership",
+      "imageUrl": ""
+    }
+  },
+  "files": {
+    "images": {
+      "software_engineering_internship.jpg": {
+        "path": "",
+        "type": "image/jpeg"
+      },
+      "data_science_scholarship.jpg": {
+        "path": "",
+        "type": "image/jpeg"
+      },
+      "graphic_designer_learnership.jpg": {
+        "path": "",
+        "type": "image/jpeg"
+      }
+    }
+  },
+  "users": {
+    "admins": {
+      "admin1": {
+        "email": "juwiijones984@gmail.com",
+        "password": "Boss@2677",
+        "staffNumber": "222379898"
+      },
+      "admin2": {
+        "email": "222379898@ymp.ac.za",
+        "password": "Boss@2677",
+        "staffNumber": "222379898"
+      }
+    },
+    "alumni_employers": {
+      "alumni1": {
+        "fullName": "John Doe",
+        "email": "johndoe@example.com",
+        "contactNumber": "123-456-7890",
+        "nationality": "American",
+        "address": "123 Elm Street, Springfield",
+        "password": "alumni1234",
+        "position": "HR Manager",
+        "staffNumber": "EMP001",
+        "organization": "Doe Enterprises",
+        "acceptTerms": true
+      },
+      "alumni2": {
+        "fullName": "Jane Smith",
+        "email": "janesmith@example.com",
+        "contactNumber": "987-654-3210",
+        "nationality": "Canadian",
+        "address": "456 Maple Avenue, Toronto",
+        "password": "alumni5678",
+        "position": "Marketing Director",
+        "staffNumber": "EMP002",
+        "organization": "Smith Consulting",
+        "acceptTerms": true
+      }
+    },
+    "applicants": {
+      "applicant1": {
+        "fullName": "Mashoto Prescious Tlale",
+        "email": "220268843@ump.ac.za",
+        "contactNumber": "0765960196",
+        "nationality": "South African",
+        "address": "Cnr R40 and D275 Roads",
+        "password": "Crystal@5412",
+        "acceptTerms": true,
+        "dateOfBirth": "2002-05-05"
+      },
+      "applicant2": {
+        "fullName": "Bob Brown",
+        "email": "bobbrown@example.com",
+        "contactNumber": "555-765-4321",
+        "nationality": "Australian",
+        "address": "101 Pine Street, Sydney",
+        "password": "applicant1234",
+        "acceptTerms": true,
+        "dateOfBirth": "1988-11-23"
+      }
+    },
+    "student_graduates": {
+      "student1": {
+        "fullName": "Emily Brown",
+        "emailAddress": "emilybrown@example.com",
+        "dateOfBirth": "1998-06-15",
+        "studentNumber": "S123456",
+        "qualificationDestination": "Bachelor of Science in Computer Science",
+        "contactNumber": "+1122334455",
+        "nationality": "Canadian",
+        "password": "hashed_password_1",
+        "acceptTerms": true
+      }
+    }
+  }
+}
